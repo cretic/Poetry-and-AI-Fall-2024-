@@ -1,11 +1,9 @@
 # Poetry and AI - ENG 353 Fall 2024
 
 **Yale University**  
-**Room:** LC 203  
-**Time:** T/Th 11:35-12:50  
 **Professor:** Ben Glaser  
 **Email:** ben.glaser@yale.edu  
-**Office Hours:** Th 1:30-3:30 (and by appointment)
+
 
 ## Course Description
 
